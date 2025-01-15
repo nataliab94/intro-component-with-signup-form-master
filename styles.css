@@ -11,7 +11,7 @@ body{
   flex-wrap: wrap;
   justify-content: space-around;
   align-content: center;
-  background-image: url(images/bg-intro-desktop.png);
+  background-image: url(./bg-intro-desktop.png);
   background-color: hsl(0, 100%, 74%);
   color: white;
   font-family: 'Poppins',sans-serif;
@@ -128,7 +128,7 @@ button{
   text-decoration: none
 }
 .error {
-    background: url("images/icon-error.svg") no-repeat;
+    background: url("./icon-error.svg") no-repeat;
     background-position: 95% center;
     background-size: 1.5rem 1.5rem;
     border-color: red;
