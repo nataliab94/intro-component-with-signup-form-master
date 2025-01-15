@@ -11,7 +11,7 @@ body{
   flex-wrap: wrap;
   justify-content: space-around;
   align-content: center;
-  background-image: url(./bg-intro-desktop.png);
+  background-image: url("./bg-intro-desktop.png");
   background-color: hsl(0, 100%, 74%);
   color: white;
   font-family: 'Poppins',sans-serif;
